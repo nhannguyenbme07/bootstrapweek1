@@ -63,3 +63,9 @@ body {
 .row-content-modal {
   padding: 10px 0px 10px 5px;
 }
+
+.carouselButton {
+  right: 0px;
+  position: absolute;
+  bottom: 0px;
+}
