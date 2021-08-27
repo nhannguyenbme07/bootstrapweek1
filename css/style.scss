@@ -68,3 +68,21 @@ body {
   bottom: 0px;
   position: absolute;
 }
+
+.modal-content {
+  .modal-header {
+    background: $background-dark;
+    color: floralwhite;
+  }
+  .modal-body {
+    background: $backgroup-pale;
+  }
+}
+
+.row-content-modal {
+  @include zero-margin(10px, 0px);
+}
+
+.close {
+  color: $backgroup-pale;
+}
